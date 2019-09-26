@@ -1,7 +1,7 @@
 import React from "react";
 import Experience from "./Experience";
 import Education from "./Education";
-import { Link } from "react-router-dom";
+
 const About = () => {
   return (
     <div style={{ display: "flex" }}>
